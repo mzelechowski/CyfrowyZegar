@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProjektZegarJava.iml" filepath="$PROJECT_DIR$/ProjektZegarJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyfrowyZegar.iml" filepath="$PROJECT_DIR$/CyfrowyZegar.iml" />
     </modules>
   </component>
 </project>

@@ -15,7 +15,6 @@ public class SwingClock extends JFrame implements Runnable {
         setLayout(null);
         setVisible(true);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
         thread = new Thread(this);
         thread.start();
     }
@@ -39,6 +38,4 @@ public class SwingClock extends JFrame implements Runnable {
     public static void main(String[] args) {
         SwingClock clock = new SwingClock();
     }
-
-
 }
